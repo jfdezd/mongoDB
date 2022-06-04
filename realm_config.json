@@ -4,5 +4,6 @@
     "name": "Application-0",
     "location": "IE",
     "provider_region": "aws-eu-west-1",
-    "deployment_model": "GLOBAL"
+    "deployment_model": "GLOBAL",
+    "environment": "testing"
 }
